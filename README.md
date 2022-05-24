@@ -6,10 +6,10 @@
 
 ### I am ✨ Ochu Dominic Onah ✨,
 
-A Creative and immovable Front-End Engineer with over 5 years of experience building stable eCommerce websites and apps in fast-paced, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/stanley-ogada/" rel="nofollow noreferrer">
+A Creative and immovable Front-End Engineer with over 2 years of experience building stable websites and apps in fast-paced, collaborative environments. You can also find me on 
+<a href="https://www.linkedin.com/in/dominic-ochu/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +22991185068, or +2349156595803.
+</a>, +2348110998914, or +2347034278995.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -41,7 +41,7 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
  
 ## &#x1f4c8; GitHub Stats (Current Account)
 
-<a href="https://github.com/chineduogada">
+<a href="https://github.com/domchu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyogada&count_private=true&show_icons=true&theme=tokyonight" alt="Ogada Stanley Chinedu's GitHub Stats" />
 </a>
 
@@ -68,7 +68,7 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 
 
 
-<a href="https://github.com/chineduogada">
+<a href="https://github.com/domchu">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=stanleyogada&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  
 
@@ -89,8 +89,8 @@ A Creative and immovable Front-End Engineer with over 5 years of experience buil
 <!-- links to your social media accounts -->
 
 <!-- [1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/ -->
+[2]: https://github.com/domchu
+[3]: https://www.linkedin.com/in/dominic-ochu/ -->
 
 
 <!-- Resources -->
